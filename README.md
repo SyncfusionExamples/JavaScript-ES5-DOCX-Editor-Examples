@@ -1,4 +1,4 @@
-# Syncfusion&reg; JavaScript (ES5) DOCX Editor
+# Syncfusion&reg; JavaScript (ES5) DOCX Editor (Document Editor)
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript DOCX Editor (Document Editor) is a feature-rich, user-interactive component that enables creating, editing, viewing, and printing Word documents with advanced formatting, editing capabilities, and broad support for document import and export formats. 
 
@@ -26,9 +26,9 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript DOCX Editor (Doc
 
 # Resources
 
-- **Documentation:**   [Syncfusion® JavaScript (ES5) Word Processor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) 
+- **Documentation:**   [Syncfusion® JavaScript (ES5) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) 
 
-- **Online demo:**   [Syncfusion® JavaScript (ES5) Word Processor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript-es5/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples)
+- **Online demo:**   [Syncfusion® JavaScript (ES5) DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript-es5/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples)
 
 # Support and feedback
 
