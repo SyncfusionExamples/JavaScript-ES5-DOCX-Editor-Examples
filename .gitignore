@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Build output
+bin/
+obj/
+dist/
+build/
+
+# IDE / OS files
+.vs/
+.vscode/
+.idea/
+.DS_Store
