@@ -4,7 +4,7 @@ This sample demonstrates how to enable and configure the WebMCP (Model Context P
 
 # Key Features
 
-* [Enables WebMCP support](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) in the Document Editor Container using the `enableWebMcp` property, allowing AI agents to interact with the editor through the Model Context Protocol.
+* Enables WebMCP support in the Document Editor Container using the `enableWebMcp` property, allowing AI agents to interact with the editor through the Model Context Protocol.
 * Registers the editor as a WebMCP tool provider using the `webMcpSettings` property, so AI assistants (like Chrome's built-in AI agent) can discover and invoke document editing tools.
 
 # Resources
