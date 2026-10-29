@@ -6,10 +6,6 @@ This sample demonstrates how to enable and configure the WebMCP (Model Context P
 
 * [Enables WebMCP support](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) in the Document Editor Container using the `enableWebMcp` property, allowing AI agents to interact with the editor through the Model Context Protocol.
 * Registers the editor as a WebMCP tool provider using the `webMcpSettings` property, so AI assistants (like Chrome's built-in AI agent) can discover and invoke document editing tools.
-* Retrieves the list of registered WebMCP tools using the `getWebMcpTools` method, which exposes editing, formatting, and document management operations to connected AI clients.
-* Supports intercepting WebMCP tool executions with the `beforeWebMcpToolExecute` event, allowing you to validate or restrict tool usage before it runs.
-* Shows a [confirmation dialog](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/dialog?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) for write operations such as `replaceAll`, `insertText`, `paste`, `insertBookmark`, `enforceProtection`, `stopProtection`, `insertField`, `insertEditingRegion`, `formatCharacter`, `formatParagraph`, `insertImage`, and `insertHyperlink`, preventing unintended modifications by AI agents.
-* Supports the [ribbon interface](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/ribbon?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) using the `toolbarMode` property set to `Ribbon`, providing tab-based commands similar to Microsoft Word.
 
 # Resources
 
