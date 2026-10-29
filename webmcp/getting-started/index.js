@@ -5,6 +5,7 @@ ej.documenteditor.DocumentEditorContainer.Inject(ej.documenteditor.Toolbar, ej.d
 var documenteditorcontainer = new ej.documenteditor.DocumentEditorContainer({
     height: '590px',
     enableWebMcp: true,
+    toolbarMode: 'Ribbon',
     webMcpSettings: { name: 'container' }
 });
 
