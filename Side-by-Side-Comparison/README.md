@@ -92,23 +92,3 @@ JavaScript (ES5) DOCX Editor
         ├── Left Editor  → Original
         └── Right Editor → Compared / Revised
 ```
-
----
-
-# Resources
-
-- **Product page:**   [Syncfusion&reg; JavaScript (ES5) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) 
-
-- **Documentation:**   [Syncfusion&reg; JavaScript (ES5) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) 
-
-- **Online demo:**   [Syncfusion&reg; JavaScript (ES5) DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript-es5/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples)
-
-# Support and feedback 
-
-For any other queries, reach our [Syncfusion&reg; support team](https://support.syncfusion.com/?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples). 
-
-Request new feature through [Syncfusion&reg; feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples). 
-
-# License
-
-This is a commercial product and requires a paid license for possession or use. Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/22.2.5/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples) or start a free 30\-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-javascript-es5-docx-editor-examples).
